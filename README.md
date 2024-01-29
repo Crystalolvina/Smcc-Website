@@ -1,0 +1,78 @@
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<header>
+    <h1>Welcome to SMCC Website</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#Home">Home</a></li>
+        <li><a href="#About SMCC">About</a></li>
+        <li><a href="#Courses Offered">Courses Offered</a></li>
+        <li><a href="#Services">Services</a></li>
+        <li><a href="#Contact">Contact Us</a></li>
+    </ul>
+</nav>
+
+<article id="Home"></article>
+   <section>   
+      <h2></h2>
+      <p>Visit our favorite website: <a href="https://smccnasipit.edu.ph/" target="_blank">smccnasipit.edu.ph</a></p>
+    </section>
+</article>
+   
+<article id="About"></article>
+    <section>
+        <h2>About SMCC</h2>
+        <p>SMCC ALMA MATER SONG</p>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe><BR></BR>
+         <img src="vmgo.png"alt="vmgo"height="315" width="315">
+      
+    </section>
+</article>
+<hr>
+
+   <article id="Courses Offered"></article>
+      <section>
+         <h2>Courses Offered</h2>
+         <img src="courses.jpg"alt="courses"height="300">
+      </section>
+    </article> 
+ <hr>   
+
+   <article id="Services"></article>
+      <section>
+         <h2>Services</h2>
+         <img src="smcc-lobby.jpg"alt="courses"height="300">
+      
+
+
+      </section>
+    </article>
+
+  <article id="Contact"></article>
+    <section>
+       <h2>Contact Us</h2>
+
+       <p>Visit our favorite website: <a href="https://smccnasipit.edu.ph/" target="_blank">smccnasipit.edu.ph</a></p>
+       <p>Visit our favorite website: <a href="www.facebook.com/SMCCofficial" target="_blank">facebook.com/SMCCofficial</a></p>
+       <p>Visit our favorite website: <a href="www.youtube.com/@smccnasipitofficial" target="_blank">www.youtube.com/@smccnasipitofficial</a></p>
+       
+
+        
+    </section>
+</article>
+
+<footer>
+    
+
+    
+    <p>&copy; 2024 Your Website Name. All rights reserved.</p>
+</footer>
+    
+      
+    
+</body>
+</html>
